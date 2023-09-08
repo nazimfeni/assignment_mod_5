@@ -75,12 +75,15 @@ class MyHomePage extends StatelessWidget {
                   TextSpan(
                     text: 'Your phone name',
                     style: TextStyle(
+                      fontSize: 26.0,
                       color: Colors.orange,
                     ),
                   ),
                 ],
               ),
             ),
+
+
           ],
         ),
       ),
